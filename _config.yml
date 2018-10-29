@@ -6,4 +6,4 @@ description: A wonderful place to stay.
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
