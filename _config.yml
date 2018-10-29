@@ -1,0 +1,11 @@
+# basic options
+title: Ferienwohnung-Dettenheim
+author: Familie Weber
+email: pia.1993@web.de
+description: A wonderful site
+twitter_username: 
+github_username: piaweber
+
+# Build settings
+markdown: kramdown
+theme: minima
